@@ -1,0 +1,2 @@
+# snipe_alarm_bookmarklet
+JST日本標準時のサイトに簡単なアラーム機能を付けるブックマークレットです。
